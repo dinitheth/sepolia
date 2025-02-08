@@ -1,3 +1,4 @@
+import utils.session
 import os
 from eth2spec.phase0.mainnet import *
 
